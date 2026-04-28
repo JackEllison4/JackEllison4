@@ -16,6 +16,7 @@ I am a **Computer Science Student** at Memorial University of Newfoundland.
 * **Java** 
 * **C**
 * **HTML/CSS**
+* **JavaScript**
 
 ---
 
