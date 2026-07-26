@@ -27,6 +27,8 @@ I am a **Computer Science Student** at Memorial University of Newfoundland with 
 
 **Tools & Infrastructure**  
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,11 +44,9 @@ I am a **Computer Science Student** at Memorial University of Newfoundland with 
 **Personal Projects**
 * My Website
 * ADSB-Tui
-* An Autonomous Drone with UAV detection
+* An Autonomous Drone with UAV detection (WIP)
 * Linux Dotfiles
+* Home Lab (WIP)
   
 **Academic Projects**
 * Blokus: A digitized version of the board game built in Java for COMP2005 (Group 10), which I later independently expanded to include the ability to play over LAN.
-
-**Future Planned Projects**
-* Home Lab
