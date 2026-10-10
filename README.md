@@ -39,6 +39,7 @@ I am a **Computer Science Student** at Memorial University of Newfoundland with 
 ### Current Projects
 
 **Phoenix Aerospace**
+* Software Lead
 * Memorial University of Newfoundland Engineering Design Team that is working on a drone for SAR.
 * [Phoenix Website](https://phoenixuav.ca)
 
