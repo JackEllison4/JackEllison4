@@ -14,8 +14,6 @@ I am a **Computer Science Student** at Memorial University of Newfoundland with 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF7E33?style=for-the-badge&logo=astro&logoColor=white)
@@ -48,7 +46,7 @@ I am a **Computer Science Student** at Memorial University of Newfoundland with 
 * ADSB-Tui
 * An Autonomous Drone with UAV detection (WIP)
 * Linux Dotfiles
-* Home Lab (WIP)
+* Home Lab
   
 **Academic Projects**
 * Blokus: A digitized version of the board game built in Java for COMP2005 (Group 10), which I later independently expanded to include the ability to play over LAN.
